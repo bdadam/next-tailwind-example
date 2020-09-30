@@ -1,5 +1,7 @@
 # Tailwind example with Next.js
 
+https://bdadam.github.io/next-tailwind-example/
+
 ## Good parts of using Tailwind
 
 - Styling is in HTML => fewer context switches
