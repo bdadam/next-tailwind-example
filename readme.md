@@ -11,4 +11,7 @@
 ## Bad parts
 
 - HTML is cluttered with class names
--
+
+## Challenges
+
+- How to ensure consistency between pages and products (px-2, px-3 in box, font-xl or font-2xl for headlines?)
